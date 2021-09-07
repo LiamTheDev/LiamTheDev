@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **php**
 
-- 👨‍💻 More details about me are on my (https://projekt-dxt.xyz/)
+- 👨‍💻 More details about me are on my (http://project-dxt.xyz/)
 
 - 📫 How to reach me **projektdxt@gmail.com**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://instagram.com/project.dxt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="clynt_cc" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="clynt" height="30" width="40" /></a>
-<a href="https://projekt-dxt.xyz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://dc.clynt.de/" height="30" width="40" /></a>
+<a href="http://project-dxt.xyz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://dc.clynt.de/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
