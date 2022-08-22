@@ -10,8 +10,9 @@ globalThis.Tesla = {
         'JS',
         '.NET',
         'PHP',
+        'Kajak',
+        'Listening Rap',
         'Reverse Engineering',
-        'Listening/Writing Rap',
         'Making the www a better place'
     ],
     Crypto: {
