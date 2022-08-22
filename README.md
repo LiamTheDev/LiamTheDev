@@ -1,9 +1,7 @@
-```js
 globalThis.Liam = {
     Socials: {
         GitHub: 'Liam1337',
-        Instagram: 'Liam.1337',
-        Discord: 'Liam.1337#3504',
+        Discord: 'Liam.1337',
         Website: 'liam1337.space'
     },
     Hobbies: [
@@ -16,29 +14,30 @@ globalThis.Liam = {
         'Making the www a better place'
     ],
     Crypto: {
-        Bitcoin: 'bc1q35alg2jwakex42tlcw7cyk0npxxm63s93f8dms',
-        Ethereum: 'temp',
-        Litecoin: 'temp'
+        Donate: 'Buy me a pizza? :)',
+        Bitcoin: 'bc1q50gn7y5l6s653yy3j7g95mgswmeqzty89z6jj5',
+        Ethereum: '0xb8DA14D509857782f0cD81A5709DE43E654daFd3',
+        Litecoin: 'ltc1qnqcwn9vmwmjvwwtezvaeh0s6vpl8cd93pcu4e9'
     },
     LoveYou: Boolean(!1337),
     SayWhoWhat: (what) => console.log(what),
     ShowSomeLove: (ProbablyLeet) => console.table(ProbablyLeet),
-    ItProbablyMeans: (Tesla) => parseInt(Tesla, (6+6+7)-3),
+    ItProbablyMeans: (Liam) => parseInt(Liam, (6+6+7)-3),
 }
 
-while (Tesla.LoveYou === false) {
-    Tesla.ShowSomeLove(Tesla);
-    Tesla.LoveYou = Boolean(1337);
+while (Liam.LoveYou === false) {
+    Liam.ShowSomeLove(Liam);
+    Liam.LoveYou = Boolean(1337);
     
 
-    if (Tesla.LoveYou) {
-        Tesla.SayWhoWhat('What does 0x11DFE mean?');
-        hmmmm = Tesla.ItProbablyMeans(Tesla.Socials.GitHub);
-        oh_i_also_have_a_reddit = `https://www.reddit.com/user/${hmmmm}`;
+    if (Liam.LoveYou) {
+        Liam.SayWhoWhat('What does 1337 mean?');
+        hmmmm = (Liam.Socials.Discord);
+        bruh = Liam.ItProbablyMeans(10);
+        oh_you_wonder_how_old = `${bruh}`;
+        oh_i_also_have_a_insta = `https://www.instagram.com/${hmmmm}`;
 
-        Tesla.SayWhoWhat(oh_i_also_have_a_reddit);
+        Liam.SayWhoWhat(oh_you_wonder_how_old);
+        Liam.SayWhoWhat(oh_i_also_have_a_insta);
     }
 }
-```
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/914882312997589034)](https://discord.com/users/914882312997589034)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liam1337&show_icons=true&theme=gruvbox)
