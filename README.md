@@ -1,3 +1,4 @@
+```js
 globalThis.Liam = {
     Socials: {
         GitHub: 'Liam1337',
@@ -41,3 +42,4 @@ while (Liam.LoveYou === false) {
         Liam.SayWhoWhat(oh_i_also_have_a_insta);
     }
 }
+```
