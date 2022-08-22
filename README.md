@@ -43,3 +43,4 @@ while (Liam.LoveYou === false) {
     }
 }
 ```
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/914882312997589034)](https://discord.com/users/914882312997589034)
