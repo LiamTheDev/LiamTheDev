@@ -1,5 +1,3 @@
-## ![Welcome to my profile 🤟](header.png)
-
 <div align="left">
   <a href="https://app.daily.dev/Tesla" target="_blank">
     <img width="146" align="left" src="https://raw.githubusercontent.com/0x11DFE/0x11DFE/devcard/devcard.svg">
