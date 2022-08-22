@@ -1,29 +1,3 @@
-<div align="left">
-  <a href="https://app.daily.dev/Tesla" target="_blank">
-    <img width="146" align="left" src="https://raw.githubusercontent.com/0x11DFE/0x11DFE/devcard/devcard.svg">
-  </a>
-</div>
-
-<div align="right">
-  <a href="https://github.com/0x11DFE" target="_blank">
-    <img width="146" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=eq0o2y8dsh6i76v91eqk9alzd&cover_image=true&theme=default&bar_color=e74c3c&bar_color_cover=false">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/0x11DFE" target="_blank">
-    <img src="https://badges.pufler.dev/visits/0x11DFE/0x11DFE?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter">
-  </a>
-  <a href="https://github.com/0x11DFE" target="_blank">
-    <img src="https://badges.pufler.dev/years/0x11DFE/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age">
-  </a>
-  <a href="https://github.com/0x11DFE/0x11DFE/commits/main" target="_blank">
-    <img src="https://badges.pufler.dev/updated/0x11DFE/0x11DFE?style=for-the-badge&color=f0f6f9&logo=github&label=Update">
-  </a>
-</div>
-
-## Wanna know more about me ?
-
 ```js
 globalThis.Tesla = {
     Socials: {
