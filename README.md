@@ -1,10 +1,10 @@
 ```js
-globalThis.Tesla = {
+globalThis.Liam = {
     Socials: {
         GitHub: 'Liam1337',
-        Instagram: 'Liam1337',
+        Instagram: 'Liam.1337',
         Discord: 'Liam.1337#3504',
-        Website: 'Wannabe1337.xyz'
+        Website: 'liam1337.space'
     },
     Hobbies: [
         'JS',
