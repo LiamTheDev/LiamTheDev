@@ -15,14 +15,9 @@ globalThis.Tesla = {
         'Making the www a better place'
     ],
     Crypto: {
-        Monero: '42PKLbnXKWiYGEm7D2zE7P9Gdq2uL88PTamyoVos3h4BVrbK8EbNBsC6rRn6vdedXfCsVZUdp1aPVPaLpiuPkaS4DuvF6iX',
-        Bitcoin: 'bc1q0p6cvp5nt20fxp07075l44ytts9qfn6ym5krxh',
-        Ethereum: '0xd7808a0b7635462b1c1184767aB382C3A589D0B7',
-        Solana: '9dboZP2Re8fW1PqhWTPgwcWjWQiXv8C25tgnjhzZGN1W',
-        Litecoin: 'ltc1q4amnlv907ru0zc90c73nkq9eekxz3w9z4tlps6',
-        Dogecoin: 'DFXJrMQmBX9HdshnnzX1Tf6kUKrAKQBE94',
-        Tron: 'TYcDLXpamsk7owe6RKUj9FdgTZrWMern41',
-        XRP: 'rw95kBPu3sMrsewNsSGbRp1zVj9grwdti'
+        Bitcoin: 'temp',
+        Ethereum: 'temp',
+        Litecoin: 'temp'
     },
     LoveYou: Boolean(!1337),
     SayWhoWhat: (what) => console.log(what),
