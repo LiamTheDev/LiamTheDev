@@ -40,4 +40,4 @@ while (Tesla.LoveYou === false) {
 }
 ```
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/914882312997589034)](https://discord.com/users/914882312997589034)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liam1337&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liam1337&show_icons=true&theme=gruvbox)
