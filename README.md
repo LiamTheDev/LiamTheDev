@@ -1,9 +1,9 @@
 ```js
 globalThis.Tesla = {
     Socials: {
-        GitHub: '0x11DFE',
-        Telegram: '@T3SL4',
-        Discord: '@Poe#1937',
+        GitHub: 'Liam1337',
+        Instagram: 'Liam1337',
+        Discord: 'Liam.1337#3504',
         Website: 'Wannabe1337.xyz'
     },
     Hobbies: [
@@ -15,7 +15,7 @@ globalThis.Tesla = {
         'Making the www a better place'
     ],
     Crypto: {
-        Bitcoin: 'temp',
+        Bitcoin: 'bc1q35alg2jwakex42tlcw7cyk0npxxm63s93f8dms',
         Ethereum: 'temp',
         Litecoin: 'temp'
     },
